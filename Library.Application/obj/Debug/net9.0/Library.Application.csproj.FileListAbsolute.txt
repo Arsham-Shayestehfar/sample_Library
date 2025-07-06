@@ -1,0 +1,15 @@
+D:\lib\Library\Library.Application\bin\Debug\net9.0\Library.Application.deps.json
+D:\lib\Library\Library.Application\bin\Debug\net9.0\Library.Application.dll
+D:\lib\Library\Library.Application\bin\Debug\net9.0\Library.Application.pdb
+D:\lib\Library\Library.Application\bin\Debug\net9.0\Domain.dll
+D:\lib\Library\Library.Application\bin\Debug\net9.0\Domain.pdb
+D:\lib\Library\Library.Application\obj\Debug\net9.0\Library.Application.csproj.AssemblyReference.cache
+D:\lib\Library\Library.Application\obj\Debug\net9.0\Library.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\lib\Library\Library.Application\obj\Debug\net9.0\Library.Application.AssemblyInfoInputs.cache
+D:\lib\Library\Library.Application\obj\Debug\net9.0\Library.Application.AssemblyInfo.cs
+D:\lib\Library\Library.Application\obj\Debug\net9.0\Library.Application.csproj.CoreCompileInputs.cache
+D:\lib\Library\Library.Application\obj\Debug\net9.0\Library..D137A66B.Up2Date
+D:\lib\Library\Library.Application\obj\Debug\net9.0\Library.Application.dll
+D:\lib\Library\Library.Application\obj\Debug\net9.0\refint\Library.Application.dll
+D:\lib\Library\Library.Application\obj\Debug\net9.0\Library.Application.pdb
+D:\lib\Library\Library.Application\obj\Debug\net9.0\ref\Library.Application.dll

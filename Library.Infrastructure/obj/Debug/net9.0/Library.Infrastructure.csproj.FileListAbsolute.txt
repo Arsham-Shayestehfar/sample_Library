@@ -1,0 +1,15 @@
+D:\lib\Library\Library.Infrastructure\bin\Debug\net9.0\Library.Infrastructure.deps.json
+D:\lib\Library\Library.Infrastructure\bin\Debug\net9.0\Library.Infrastructure.dll
+D:\lib\Library\Library.Infrastructure\bin\Debug\net9.0\Library.Infrastructure.pdb
+D:\lib\Library\Library.Infrastructure\bin\Debug\net9.0\Domain.dll
+D:\lib\Library\Library.Infrastructure\bin\Debug\net9.0\Domain.pdb
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.csproj.AssemblyReference.cache
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.AssemblyInfoInputs.cache
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.AssemblyInfo.cs
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.csproj.CoreCompileInputs.cache
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library..FAF1E3BF.Up2Date
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.dll
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\refint\Library.Infrastructure.dll
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.pdb
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\ref\Library.Infrastructure.dll
