@@ -13,3 +13,6 @@ D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.dl
 D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\refint\Library.Infrastructure.dll
 D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.pdb
 D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\ref\Library.Infrastructure.dll
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.sourcelink.json
+D:\lib\Library\Library.Infrastructure\bin\Debug\net9.0\Library.Infrastructure.runtimeconfig.json
+D:\lib\Library\Library.Infrastructure\obj\Debug\net9.0\Library.Infrastructure.genruntimeconfig.cache
